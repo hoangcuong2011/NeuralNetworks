@@ -1,0 +1,1269 @@
+baseline with momentum:
+
+
+run:
+Iteration: 1000
+- For training data
+loss function (cross entropy): 16.253588520282676
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 77.60000000000001
+- For test
+Classification accuracy: 76.7
+Iteration: 2000
+- For training data
+loss function (cross entropy): 8.723658394718838
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 82.8
+- For test
+Classification accuracy: 82.39999999999999
+Iteration: 3000
+- For training data
+loss function (cross entropy): 42.395302339453224
+classification accuracy: 60.0
+- For dev
+Classification accuracy: 83.36
+- For test
+Classification accuracy: 82.28
+Iteration: 4000
+- For training data
+loss function (cross entropy): 16.881328336219905
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.65
+- For test
+Classification accuracy: 84.92
+Iteration: 5000
+- For training data
+loss function (cross entropy): 28.52292460972988
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 85.64
+- For test
+Classification accuracy: 84.47
+Iteration: 6000
+- For training data
+loss function (cross entropy): 35.785970642088806
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 86.68
+- For test
+Classification accuracy: 86.0
+Iteration: 7000
+- For training data
+loss function (cross entropy): 6.4970644810232265
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.07000000000001
+- For test
+Classification accuracy: 86.37
+Iteration: 8000
+- For training data
+loss function (cross entropy): 1.4240411080412299
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.13
+- For test
+Classification accuracy: 86.71
+Iteration: 9000
+- For training data
+loss function (cross entropy): 0.5715992384615941
+classification accuracy: 100.0
+- For dev
+Classification accuracy: 87.51
+- For test
+Classification accuracy: 87.55
+Iteration: 10000
+- For training data
+loss function (cross entropy): 3.0640075292723212
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.24
+- For test
+Classification accuracy: 86.58
+Iteration: 11000
+- For training data
+loss function (cross entropy): 8.962425543846042
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.14
+- For test
+Classification accuracy: 87.25
+Iteration: 12000
+- For training data
+loss function (cross entropy): 21.189376618003944
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.67
+- For test
+Classification accuracy: 87.22
+Iteration: 13000
+- For training data
+loss function (cross entropy): 9.50920135101521
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.8
+- For test
+Classification accuracy: 86.97
+Iteration: 14000
+- For training data
+loss function (cross entropy): 14.22118591751031
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.25
+- For test
+Classification accuracy: 87.5
+Iteration: 15000
+- For training data
+loss function (cross entropy): 19.826557305110242
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.91
+- For test
+Classification accuracy: 88.41
+Iteration: 16000
+- For training data
+loss function (cross entropy): 41.37576804319447
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 88.29
+- For test
+Classification accuracy: 87.7
+Iteration: 17000
+- For training data
+loss function (cross entropy): 4.253381466687117
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.6
+- For test
+Classification accuracy: 88.37
+Iteration: 18000
+- For training data
+loss function (cross entropy): 27.889588457408664
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.59
+- For test
+Classification accuracy: 87.81
+Iteration: 19000
+- For training data
+loss function (cross entropy): 18.07955046606887
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.13
+- For test
+Classification accuracy: 87.86
+Iteration: 20000
+- For training data
+loss function (cross entropy): 1.9292750860433454
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 88.81
+- For test
+Classification accuracy: 88.37
+Iteration: 21000
+- For training data
+loss function (cross entropy): 18.670185606202114
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.81
+- For test
+Classification accuracy: 88.19
+Iteration: 22000
+- For training data
+loss function (cross entropy): 16.40703095128173
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 88.74
+- For test
+Classification accuracy: 88.44999999999999
+Iteration: 23000
+- For training data
+loss function (cross entropy): 9.767569146248006
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 89.02
+- For test
+Classification accuracy: 88.57000000000001
+Iteration: 24000
+- For training data
+loss function (cross entropy): 11.968768641694226
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.96000000000001
+- For test
+Classification accuracy: 87.41
+Iteration: 25000
+- For training data
+loss function (cross entropy): 30.836978008212373
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 88.14
+- For test
+Classification accuracy: 87.86
+Iteration: 26000
+- For training data
+loss function (cross entropy): 7.24090613136463
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 88.61
+- For test
+Classification accuracy: 88.42
+Iteration: 27000
+- For training data
+loss function (cross entropy): 3.5655777702877356
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.96000000000001
+- For test
+Classification accuracy: 87.64
+Iteration: 28000
+- For training data
+loss function (cross entropy): 20.066780733570184
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.48
+- For test
+Classification accuracy: 87.58
+Iteration: 29000
+- For training data
+loss function (cross entropy): 10.1302422538356
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.81
+- For test
+Classification accuracy: 87.76
+Iteration: 30000
+- For training data
+loss function (cross entropy): 50.20108276565142
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 88.62
+- For test
+Classification accuracy: 87.92999999999999
+BUILD SUCCESSFUL (total time: 7 minutes 48 seconds)
+
+
+
+
+
+
+
+our ...
+
+
+
+run:
+Iteration: 1000
+- For training data
+loss function (cross entropy): 27.395779572983074
+classification accuracy: 60.0
+- For dev
+Classification accuracy: 66.10000000000001
+- For test
+Classification accuracy: 65.71000000000001
+Iteration: 2000
+- For training data
+loss function (cross entropy): 18.128060489270517
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 75.82
+- For test
+Classification accuracy: 75.21
+Iteration: 3000
+- For training data
+loss function (cross entropy): 15.981851460711729
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 80.95
+- For test
+Classification accuracy: 80.21000000000001
+Iteration: 4000
+- For training data
+loss function (cross entropy): 16.763053002558213
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 83.77
+- For test
+Classification accuracy: 83.23
+Iteration: 5000
+- For training data
+loss function (cross entropy): 10.50691985191854
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.44
+- For test
+Classification accuracy: 84.95
+Iteration: 6000
+- For training data
+loss function (cross entropy): 1.6216220296494208
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 85.36
+- For test
+Classification accuracy: 84.82
+Iteration: 7000
+- For training data
+loss function (cross entropy): 11.255429328373042
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.98
+- For test
+Classification accuracy: 86.42999999999999
+Iteration: 8000
+- For training data
+loss function (cross entropy): 15.178644454108895
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 87.17
+- For test
+Classification accuracy: 86.65
+Iteration: 9000
+- For training data
+loss function (cross entropy): 2.8683699506574953
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.56
+- For test
+Classification accuracy: 87.48
+Iteration: 10000
+- For training data
+loss function (cross entropy): 10.504669960170279
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.03999999999999
+- For test
+Classification accuracy: 87.83
+Iteration: 11000
+- For training data
+loss function (cross entropy): 20.406281795172788
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.71
+- For test
+Classification accuracy: 88.06
+Iteration: 12000
+- For training data
+loss function (cross entropy): 4.988916228584073
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.53999999999999
+- For test
+Classification accuracy: 88.19
+Iteration: 13000
+- For training data
+loss function (cross entropy): 10.030566930717486
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 89.03
+- For test
+Classification accuracy: 88.42
+Iteration: 14000
+- For training data
+loss function (cross entropy): 0.3638699273325693
+classification accuracy: 100.0
+- For dev
+Classification accuracy: 89.13
+- For test
+Classification accuracy: 88.69
+Iteration: 15000
+- For training data
+loss function (cross entropy): 8.96439323946428
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 89.4
+- For test
+Classification accuracy: 88.75
+Iteration: 16000
+- For training data
+loss function (cross entropy): 16.496873438423226
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 89.37
+- For test
+Classification accuracy: 89.23
+Iteration: 17000
+- For training data
+loss function (cross entropy): 22.443768788187292
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 89.38000000000001
+- For test
+Classification accuracy: 88.66000000000001
+Iteration: 18000
+- For training data
+loss function (cross entropy): 13.671469471757966
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 89.84
+- For test
+Classification accuracy: 89.37
+Iteration: 19000
+- For training data
+loss function (cross entropy): 12.69506493423111
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 90.2
+- For test
+Classification accuracy: 89.48
+Iteration: 20000
+- For training data
+loss function (cross entropy): 0.9515018764827561
+classification accuracy: 100.0
+- For dev
+Classification accuracy: 89.96
+- For test
+Classification accuracy: 89.38000000000001
+Iteration: 21000
+- For training data
+loss function (cross entropy): 17.94899758710934
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 90.25
+- For test
+Classification accuracy: 89.66
+Iteration: 22000
+- For training data
+loss function (cross entropy): 31.071050991784894
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 90.34
+- For test
+Classification accuracy: 89.85
+Iteration: 23000
+- For training data
+loss function (cross entropy): 10.965924957882935
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.29
+- For test
+Classification accuracy: 89.89
+Iteration: 24000
+- For training data
+loss function (cross entropy): 7.446215904467733
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.38000000000001
+- For test
+Classification accuracy: 90.14
+Iteration: 25000
+- For training data
+loss function (cross entropy): 16.756611552208888
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 90.29
+- For test
+Classification accuracy: 90.02
+Iteration: 26000
+- For training data
+loss function (cross entropy): 5.974265672102913
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 90.92
+- For test
+Classification accuracy: 90.19
+Iteration: 27000
+- For training data
+loss function (cross entropy): 2.4667593858419665
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 90.75
+- For test
+Classification accuracy: 90.48
+Iteration: 28000
+- For training data
+loss function (cross entropy): 16.474680891945972
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.94
+- For test
+Classification accuracy: 90.34
+Iteration: 29000
+- For training data
+loss function (cross entropy): 6.3080540397678515
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 90.96
+- For test
+Classification accuracy: 90.5
+Iteration: 30000
+- For training data
+loss function (cross entropy): 25.263500579665873
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 90.96
+- For test
+Classification accuracy: 90.0
+BUILD SUCCESSFUL (total time: 8 minutes 14 seconds)
+
+
+
+
+
+
+----baseline part 2
+
+
+
+run:
+Iteration: 1000
+- For training data
+loss function (cross entropy): 12.902256420036167
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 79.73
+- For test
+Classification accuracy: 78.56
+Iteration: 2000
+- For training data
+loss function (cross entropy): 14.79685073978909
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 83.48
+- For test
+Classification accuracy: 82.34
+Iteration: 3000
+- For training data
+loss function (cross entropy): 12.148209758059933
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.11
+- For test
+Classification accuracy: 84.67
+Iteration: 4000
+- For training data
+loss function (cross entropy): 8.730418295157376
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 85.79
+- For test
+Classification accuracy: 84.89
+Iteration: 5000
+- For training data
+loss function (cross entropy): 9.866252475944286
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.67
+- For test
+Classification accuracy: 85.65
+Iteration: 6000
+- For training data
+loss function (cross entropy): 32.48734450464802
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 86.29
+- For test
+Classification accuracy: 85.39999999999999
+Iteration: 7000
+- For training data
+loss function (cross entropy): 7.3956642868050215
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 87.61
+- For test
+Classification accuracy: 86.11
+Iteration: 8000
+- For training data
+loss function (cross entropy): 26.30566769362767
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.74
+- For test
+Classification accuracy: 85.65
+Iteration: 9000
+- For training data
+loss function (cross entropy): 8.39078910523949
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.35000000000001
+- For test
+Classification accuracy: 86.4
+Iteration: 10000
+- For training data
+loss function (cross entropy): 17.72089472304587
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.28
+- For test
+Classification accuracy: 86.50999999999999
+Iteration: 11000
+- For training data
+loss function (cross entropy): 65.15840277451308
+classification accuracy: 65.0
+- For dev
+Classification accuracy: 87.75
+- For test
+Classification accuracy: 87.21
+Iteration: 12000
+- For training data
+loss function (cross entropy): 54.93250871250317
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 88.39
+- For test
+Classification accuracy: 87.33999999999999
+Iteration: 13000
+- For training data
+loss function (cross entropy): 16.323934710590642
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.36
+- For test
+Classification accuracy: 87.06
+Iteration: 14000
+- For training data
+loss function (cross entropy): 6.507589592640616
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.36
+- For test
+Classification accuracy: 87.69
+Iteration: 15000
+- For training data
+loss function (cross entropy): 26.1535649791688
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.57000000000001
+- For test
+Classification accuracy: 87.76
+Iteration: 16000
+- For training data
+loss function (cross entropy): 11.113900628824316
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.09
+- For test
+Classification accuracy: 87.53999999999999
+Iteration: 17000
+- For training data
+loss function (cross entropy): 37.71369886584154
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.74
+- For test
+Classification accuracy: 85.47
+Iteration: 18000
+- For training data
+loss function (cross entropy): 3.9924888734661845
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.41
+- For test
+Classification accuracy: 86.72999999999999
+Iteration: 19000
+- For training data
+loss function (cross entropy): 12.91074685193738
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.28
+- For test
+Classification accuracy: 87.55
+Iteration: 20000
+- For training data
+loss function (cross entropy): 26.31955305612145
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.4
+- For test
+Classification accuracy: 87.45
+Iteration: 21000
+- For training data
+loss function (cross entropy): 10.947068698778509
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.02
+- For test
+Classification accuracy: 87.14
+Iteration: 22000
+- For training data
+loss function (cross entropy): 8.874312440902179
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.46000000000001
+- For test
+Classification accuracy: 87.53
+Iteration: 23000
+- For training data
+loss function (cross entropy): 0.2890543683260612
+classification accuracy: 100.0
+- For dev
+Classification accuracy: 87.63
+- For test
+Classification accuracy: 86.99
+Iteration: 24000
+- For training data
+loss function (cross entropy): 28.191826456527988
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.49
+- For test
+Classification accuracy: 86.68
+Iteration: 25000
+- For training data
+loss function (cross entropy): 74.59036115293726
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 88.14
+- For test
+Classification accuracy: 87.14
+Iteration: 26000
+- For training data
+loss function (cross entropy): 27.258641864097527
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.52
+- For test
+Classification accuracy: 87.58
+Iteration: 27000
+- For training data
+loss function (cross entropy): 13.275842742933428
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.14999999999999
+- For test
+Classification accuracy: 87.46000000000001
+Iteration: 28000
+- For training data
+loss function (cross entropy): 11.475335655606752
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.87
+- For test
+Classification accuracy: 87.21
+Iteration: 29000
+- For training data
+loss function (cross entropy): 25.227614069947258
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.51
+- For test
+Classification accuracy: 87.77000000000001
+Iteration: 30000
+- For training data
+loss function (cross entropy): 17.59826019360478
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.85
+- For test
+Classification accuracy: 87.38
+BUILD SUCCESSFUL (total time: 7 minutes 21 seconds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------baseline -----------------
+
+
+run:
+Iteration: 1000
+- For training data
+loss function (cross entropy): 20.688032776678163
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 75.64999999999999
+- For test
+Classification accuracy: 74.17
+Iteration: 2000
+- For training data
+loss function (cross entropy): 29.67877407215493
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 82.92
+- For test
+Classification accuracy: 82.25
+Iteration: 3000
+- For training data
+loss function (cross entropy): 15.586824424622126
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 83.37
+- For test
+Classification accuracy: 82.78999999999999
+Iteration: 4000
+- For training data
+loss function (cross entropy): 7.526171255441129
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 85.31
+- For test
+Classification accuracy: 84.77
+Iteration: 5000
+- For training data
+loss function (cross entropy): 10.026711773641924
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.28999999999999
+- For test
+Classification accuracy: 84.28
+Iteration: 6000
+- For training data
+loss function (cross entropy): 21.689228963289224
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 85.33
+- For test
+Classification accuracy: 84.55
+Iteration: 7000
+- For training data
+loss function (cross entropy): 9.191393669098312
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 84.76
+- For test
+Classification accuracy: 84.83000000000001
+Iteration: 8000
+- For training data
+loss function (cross entropy): 19.372275059759694
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.68
+- For test
+Classification accuracy: 85.66
+Iteration: 9000
+- For training data
+loss function (cross entropy): 24.7160599936386
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 85.25
+- For test
+Classification accuracy: 85.33
+Iteration: 10000
+- For training data
+loss function (cross entropy): 10.476185690343943
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 85.72999999999999
+- For test
+Classification accuracy: 85.61
+Iteration: 11000
+- For training data
+loss function (cross entropy): 2.5054501138906775
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 86.24000000000001
+- For test
+Classification accuracy: 86.11999999999999
+Iteration: 12000
+- For training data
+loss function (cross entropy): 12.11245984966836
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.2
+- For test
+Classification accuracy: 86.71
+Iteration: 13000
+- For training data
+loss function (cross entropy): 28.091383309933224
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 87.22999999999999
+- For test
+Classification accuracy: 86.15
+Iteration: 14000
+- For training data
+loss function (cross entropy): 25.62558027656708
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 86.47
+- For test
+Classification accuracy: 85.17
+Iteration: 15000
+- For training data
+loss function (cross entropy): 12.825298328329591
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.77
+- For test
+Classification accuracy: 86.4
+Iteration: 16000
+- For training data
+loss function (cross entropy): 23.71586203742414
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.61
+- For test
+Classification accuracy: 87.06
+Iteration: 17000
+- For training data
+loss function (cross entropy): 1.5596315127792824
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 85.99
+- For test
+Classification accuracy: 85.61
+Iteration: 18000
+- For training data
+loss function (cross entropy): 10.9912470832097
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 86.28
+- For test
+Classification accuracy: 84.85000000000001
+Iteration: 19000
+- For training data
+loss function (cross entropy): 7.431006022959574
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.32
+- For test
+Classification accuracy: 86.50999999999999
+Iteration: 20000
+- For training data
+loss function (cross entropy): 1.4422320193826335
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.6
+- For test
+Classification accuracy: 87.12
+Iteration: 21000
+- For training data
+loss function (cross entropy): 29.772624863569153
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 87.2
+- For test
+Classification accuracy: 86.83999999999999
+Iteration: 22000
+- For training data
+loss function (cross entropy): 26.18918640553418
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 87.06
+- For test
+Classification accuracy: 86.1
+Iteration: 23000
+- For training data
+loss function (cross entropy): 0.3259996316320848
+classification accuracy: 100.0
+- For dev
+Classification accuracy: 88.24
+- For test
+Classification accuracy: 87.29
+Iteration: 24000
+- For training data
+loss function (cross entropy): 34.81648304788943
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 87.46000000000001
+- For test
+Classification accuracy: 86.61
+Iteration: 25000
+- For training data
+loss function (cross entropy): 15.135875309613596
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.44
+- For test
+Classification accuracy: 87.4
+Iteration: 26000
+- For training data
+loss function (cross entropy): 7.3022177120915295
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.13
+- For test
+Classification accuracy: 87.22999999999999
+Iteration: 27000
+- For training data
+loss function (cross entropy): 12.51571363681879
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.34
+- For test
+Classification accuracy: 87.72
+Iteration: 28000
+- For training data
+loss function (cross entropy): 5.60592400089843
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 88.4
+- For test
+Classification accuracy: 87.83999999999999
+Iteration: 29000
+- For training data
+loss function (cross entropy): 12.46117488691281
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.57000000000001
+- For test
+Classification accuracy: 87.7
+Iteration: 30000
+- For training data
+loss function (cross entropy): 27.163382563833057
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 87.94999999999999
+- For test
+Classification accuracy: 87.16000000000001
+BUILD SUCCESSFUL (total time: 7 minutes 58 seconds)
+
+
+
+
+----our 
+
+
+run:
+Iteration: 1000
+- For training data
+loss function (cross entropy): 22.08602157828443
+classification accuracy: 75.0
+- For dev
+Classification accuracy: 64.23
+- For test
+Classification accuracy: 62.970000000000006
+Iteration: 2000
+- For training data
+loss function (cross entropy): 14.9946307650128
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 76.83
+- For test
+Classification accuracy: 75.25
+Iteration: 3000
+- For training data
+loss function (cross entropy): 10.084852839918174
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 80.03
+- For test
+Classification accuracy: 78.78
+Iteration: 4000
+- For training data
+loss function (cross entropy): 22.338626632396586
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 83.37
+- For test
+Classification accuracy: 82.02000000000001
+Iteration: 5000
+- For training data
+loss function (cross entropy): 6.8827655601747075
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 84.39
+- For test
+Classification accuracy: 83.34
+Iteration: 6000
+- For training data
+loss function (cross entropy): 4.187136260098993
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 85.72
+- For test
+Classification accuracy: 84.63000000000001
+Iteration: 7000
+- For training data
+loss function (cross entropy): 9.524923875103026
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 86.41
+- For test
+Classification accuracy: 85.61999999999999
+Iteration: 8000
+- For training data
+loss function (cross entropy): 13.150365359076762
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 87.18
+- For test
+Classification accuracy: 86.72
+Iteration: 9000
+- For training data
+loss function (cross entropy): 4.6576102521873635
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 87.64999999999999
+- For test
+Classification accuracy: 87.05000000000001
+Iteration: 10000
+- For training data
+loss function (cross entropy): 9.659942714283023
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 88.5
+- For test
+Classification accuracy: 87.94999999999999
+Iteration: 11000
+- For training data
+loss function (cross entropy): 12.107443378152997
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 88.31
+- For test
+Classification accuracy: 87.78
+Iteration: 12000
+- For training data
+loss function (cross entropy): 24.34838937152884
+classification accuracy: 70.0
+- For dev
+Classification accuracy: 88.78
+- For test
+Classification accuracy: 88.4
+Iteration: 13000
+- For training data
+loss function (cross entropy): 9.48833640987718
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 89.05
+- For test
+Classification accuracy: 88.71
+Iteration: 14000
+- For training data
+loss function (cross entropy): 4.807193206341512
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 89.18
+- For test
+Classification accuracy: 89.1
+Iteration: 15000
+- For training data
+loss function (cross entropy): 10.054251935132367
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 89.4
+- For test
+Classification accuracy: 89.16
+Iteration: 16000
+- For training data
+loss function (cross entropy): 24.50675072061591
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 89.60000000000001
+- For test
+Classification accuracy: 89.25
+Iteration: 17000
+- For training data
+loss function (cross entropy): 22.941410014116062
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 89.62
+- For test
+Classification accuracy: 89.42999999999999
+Iteration: 18000
+- For training data
+loss function (cross entropy): 3.1173602427817784
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 90.13
+- For test
+Classification accuracy: 89.56
+Iteration: 19000
+- For training data
+loss function (cross entropy): 25.67684171098444
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 89.92
+- For test
+Classification accuracy: 89.7
+Iteration: 20000
+- For training data
+loss function (cross entropy): 25.56728459235009
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 90.38000000000001
+- For test
+Classification accuracy: 90.16999999999999
+Iteration: 21000
+- For training data
+loss function (cross entropy): 14.322819533335927
+classification accuracy: 85.0
+- For dev
+Classification accuracy: 90.44
+- For test
+Classification accuracy: 90.18
+Iteration: 22000
+- For training data
+loss function (cross entropy): 4.065657125703203
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.27
+- For test
+Classification accuracy: 90.24
+Iteration: 23000
+- For training data
+loss function (cross entropy): 4.106227985089191
+classification accuracy: 95.0
+- For dev
+Classification accuracy: 90.55
+- For test
+Classification accuracy: 90.42999999999999
+Iteration: 24000
+- For training data
+loss function (cross entropy): 18.262258910432408
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.60000000000001
+- For test
+Classification accuracy: 90.5
+Iteration: 25000
+- For training data
+loss function (cross entropy): 38.56961916585929
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.53999999999999
+- For test
+Classification accuracy: 90.14
+Iteration: 26000
+- For training data
+loss function (cross entropy): 24.44727628392236
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 90.84
+- For test
+Classification accuracy: 90.57
+Iteration: 27000
+- For training data
+loss function (cross entropy): 11.622123987412271
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 91.03
+- For test
+Classification accuracy: 90.45
+Iteration: 28000
+- For training data
+loss function (cross entropy): 15.73396907559002
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 90.9
+- For test
+Classification accuracy: 90.73
+Iteration: 29000
+- For training data
+loss function (cross entropy): 46.149505100285666
+classification accuracy: 80.0
+- For dev
+Classification accuracy: 90.96
+- For test
+Classification accuracy: 90.71000000000001
+Iteration: 30000
+- For training data
+loss function (cross entropy): 21.704330388382726
+classification accuracy: 90.0
+- For dev
+Classification accuracy: 91.13
+- For test
+Classification accuracy: 90.75999999999999
+BUILD SUCCESSFUL (total time: 7 minutes 53 seconds)
+
+
+
+
